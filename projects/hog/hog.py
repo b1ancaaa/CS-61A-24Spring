@@ -263,7 +263,7 @@ def make_averaged(original_function, samples_count=1000):
     """
     # BEGIN PROBLEM 8
     "*** YOUR CODE HERE ***"
-    
+    def abc
     # END PROBLEM 8
 
 
